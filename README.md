@@ -12,7 +12,7 @@ This project delves into the analysis of workplace absenteeism by investigating 
 
 **Source:** UC Irvine Machine Learning Repository
 
-**Link:** https://archive.ics.uci.edu/dataset/445/absenteeism+at+work
+**Link:**  https://archive.ics.uci.edu/dataset/445/absenteeism+at+work
 ---
 **Description:** 
 The dataset records employee absenteeism at a courier company in Brazil from July 2007 to July 2010. It reflects the shift towards trust-based work environments, where employees manage their own work hours. This flexibility, however, can lead to unregulated absenteeism, which may negatively affect productivity and employee evaluations. The data includes information on various factors such as reasons for absence, employee demographics, work conditions, and social habits, providing a comprehensive view to analyze the impact of these factors on absenteeism.
